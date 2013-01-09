@@ -1,4 +1,4 @@
 one and
 two and
 three and
-boom boomï»¿
+boom boomï

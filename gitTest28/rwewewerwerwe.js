@@ -7,3 +7,4 @@ opa opa
 chiki chiki
 umpa umpa
 cказка
+encoding transfer test
